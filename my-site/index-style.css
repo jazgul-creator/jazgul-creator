@@ -1,0 +1,9 @@
+#site {
+	position: absolute;
+	background: grey;
+	width: 70%;
+	height: 400%;
+	border: 2px solid black;
+	
+	left: 15%;
+}
